@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T12:24:54.518Z" agent="5.0 (Windows)" etag="FB-1tkH_IW8lk02mdTCL" version="20.2.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-01T13:50:44.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3jL0meI1zTMGTYRzybnn" version="20.2.7" type="github" pages="11">
   <diagram name="ЖЦ Уязвимости" id="u2YSVogV3eUHSYebwatT">
-    <mxGraphModel dx="1646" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TGf8UvjFjZuwZxCkfshg" name="Этапы">
-    <mxGraphModel dx="1372" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,7 +598,7 @@
             <mxPoint x="440.0000000000002" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="C6Uu3DSKbr_AQk3omuP0-39" target="C6Uu3DSKbr_AQk3omuP0-6">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="C6Uu3DSKbr_AQk3omuP0-39" target="C6Uu3DSKbr_AQk3omuP0-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="410" />
@@ -618,7 +618,7 @@
             <mxPoint x="440" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="C6Uu3DSKbr_AQk3omuP0-41" target="C6Uu3DSKbr_AQk3omuP0-7">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="C6Uu3DSKbr_AQk3omuP0-41" target="C6Uu3DSKbr_AQk3omuP0-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="420" />
@@ -634,7 +634,7 @@
             <mxPoint x="440" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="C6Uu3DSKbr_AQk3omuP0-43" target="C6Uu3DSKbr_AQk3omuP0-8">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="C6Uu3DSKbr_AQk3omuP0-43" target="C6Uu3DSKbr_AQk3omuP0-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="410" />
@@ -655,7 +655,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="C6Uu3DSKbr_AQk3omuP0-45" target="C6Uu3DSKbr_AQk3omuP0-9">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" parent="1" source="C6Uu3DSKbr_AQk3omuP0-45" target="C6Uu3DSKbr_AQk3omuP0-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C6Uu3DSKbr_AQk3omuP0-45" value="Виза AppSec-аналитика о прохождении этапа" style="shape=card;whiteSpace=wrap;html=1;direction=south;fontSize=15;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1;dashed=1;" parent="1" vertex="1">
@@ -672,7 +672,7 @@
         <mxCell id="8Sd1DSzAwExiV8-ONAAw-1" value="Архитектурный контроль" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="41" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="C6Uu3DSKbr_AQk3omuP0-6">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="C6Uu3DSKbr_AQk3omuP0-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="261" y="240" as="sourcePoint" />
             <mxPoint x="310" y="190" as="targetPoint" />
@@ -683,7 +683,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="C6Uu3DSKbr_AQk3omuP0-6">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="C6Uu3DSKbr_AQk3omuP0-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="280" as="sourcePoint" />
             <mxPoint x="440" y="30" as="targetPoint" />
@@ -694,28 +694,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-7" value="Этап" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-7" value="Этап" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="21" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-8" value="Название этапа. Выполняется на стороне разработки" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-8" value="Название этапа. Выполняется на стороне разработки" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="171" y="540" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-9" value="Проверка" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-9" value="Проверка" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="21" y="580" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-10" value="Название проверки. Выполняется на стороне отдела безопасной разработки" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-10" value="Название проверки. Выполняется на стороне отдела безопасной разработки" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="171" y="580" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-12" value="Дейсвтия" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;dashed=1;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-12" value="Действие" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="21" y="660" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-14" value="Название проверки или действия. Выполняется на стороне отдела мониторинга" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-14" value="Название проверки или действия. Выполняется на стороне отдела мониторинга" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="171" y="660" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-18" value="Отчет" style="shape=card;whiteSpace=wrap;html=1;direction=south;fontSize=15;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;strokeWidth=2;size=20;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-18" value="Отчет" style="shape=card;whiteSpace=wrap;html=1;direction=south;fontSize=15;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;strokeWidth=2;size=20;" parent="1" vertex="1">
           <mxGeometry x="21" y="620" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bTlGVTATybfNAuEPsHwA-20" value="Отчет. Выполняется на стороне отдела безопасной разработки" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="bTlGVTATybfNAuEPsHwA-20" value="Отчет. Выполняется на стороне отдела безопасной разработки" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="171" y="620" width="600" height="30" as="geometry" />
         </mxCell>
       </root>
