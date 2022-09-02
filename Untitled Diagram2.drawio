@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T20:08:44.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Ea4lz0xNgT9EbBxrlQdQ" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-02T13:41:48.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_qPVkGWi4XZLD2jXtnxF" version="20.2.7" type="github" pages="11">
   <diagram name="ЖЦ Уязвимости" id="u2YSVogV3eUHSYebwatT">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TGf8UvjFjZuwZxCkfshg" name="Этапы">
-    <mxGraphModel dx="2595" dy="2537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -876,11 +876,11 @@
         </mxCell>
         <mxCell id="XvVjCITPdaZvr5lxqD-M-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="XvVjCITPdaZvr5lxqD-M-4" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1568" y="290" as="sourcePoint" />
-            <mxPoint x="1382" y="40" as="targetPoint" />
+            <mxPoint x="1569" y="340" as="sourcePoint" />
+            <mxPoint x="1384" y="40" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1642" y="290" />
-              <mxPoint x="1642" y="10" />
+              <mxPoint x="1639" y="340" />
+              <mxPoint x="1641" y="10" />
               <mxPoint x="1385" y="10" />
             </Array>
           </mxGeometry>
@@ -965,6 +965,9 @@
         </mxCell>
         <mxCell id="XvVjCITPdaZvr5lxqD-M-65" value="&lt;b&gt;Условные обозначения:&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1937" y="286" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvVjCITPdaZvr5lxqD-M-66" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Контроль реализации требований&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1508" y="270" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
